@@ -1,3 +1,3 @@
 # android-fun-facts-github
 
-In order to create a published app, this one was used for a base line.  
+Rebuild app to use data service to pull information into app.
